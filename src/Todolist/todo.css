@@ -50,7 +50,18 @@
 .bb1 {
     width: 600px;
     margin: 0 auto;
+    
 }
+/* .bb1>h2{
+    float: left;
+    width: 550px;
+    border: 1px solid red;
+}
+.bb1>span{
+    float: right;
+    position: relative;
+    bottom: 80px;
+} */
 
 /* todolist */
 #word{
